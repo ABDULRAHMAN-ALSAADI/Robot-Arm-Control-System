@@ -92,3 +92,10 @@ This system is designed to work with ESP32 microcontrollers. The robot status is
 - Get stopped pose: GET /update_status.php
 
   ## 🚀 Screenshots
+  
+<img width="1920" height="930" alt="Screenshot 2025-07-24 224746" src="https://github.com/user-attachments/assets/b31400a7-56f1-44f4-bde4-0299cf6080a0" />
+
+<img width="1920" height="930" alt="Screenshot 2025-07-25 231649" src="https://github.com/user-attachments/assets/6a6fe1cf-1fa4-4b06-ac2a-cbb21ca2b7a1" />
+
+<img width="1920" height="932" alt="Screenshot 2025-07-25 231710" src="https://github.com/user-attachments/assets/5fd01e2f-e7a4-4a8c-802f-098581d08aa9" />
+
