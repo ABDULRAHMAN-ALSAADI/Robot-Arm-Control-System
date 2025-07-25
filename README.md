@@ -88,8 +88,12 @@ Basic Controls
 This system is designed to work with ESP32 microcontrollers. The robot status is stored in the database and can be read by your ESP32 using HTTP requests:
 
 - Get current pose: GET /get_run_pose.php
+  
+Access the current pose at http://localhost/robot_control/get_run_pose.php
 
 - Get stopped pose: GET /update_status.php
+  
+Access the stopped pose at http://localhost/robot_control/update_status.php
 
   ## 🚀 Screenshots
   
