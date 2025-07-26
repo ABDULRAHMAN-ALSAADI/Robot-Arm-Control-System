@@ -99,7 +99,7 @@ Access the stopped pose at http://localhost/robot_control/update_status.php
   
 <img width="1920" height="930" alt="Screenshot 2025-07-24 224746" src="https://github.com/user-attachments/assets/b31400a7-56f1-44f4-bde4-0299cf6080a0" />
 
-<img width="1920" height="930" alt="Screenshot 2025-07-25 231649" src="https://github.com/user-attachments/assets/6a6fe1cf-1fa4-4b06-ac2a-cbb21ca2b7a1" />
+<img width="1920" height="930" alt="Screenshot 2025-07-26 150037" src="https://github.com/user-attachments/assets/d340df06-6960-4e43-b54a-6d42a812543b" />
 
 <img width="1920" height="932" alt="Screenshot 2025-07-25 231710" src="https://github.com/user-attachments/assets/5fd01e2f-e7a4-4a8c-802f-098581d08aa9" />
 
