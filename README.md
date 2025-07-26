@@ -101,5 +101,5 @@ Access the stopped pose at http://localhost/robot_control/update_status.php
 
 <img width="1920" height="930" alt="Screenshot 2025-07-26 150037" src="https://github.com/user-attachments/assets/d340df06-6960-4e43-b54a-6d42a812543b" />
 
-<img width="1920" height="932" alt="Screenshot 2025-07-25 231710" src="https://github.com/user-attachments/assets/5fd01e2f-e7a4-4a8c-802f-098581d08aa9" />
+<img width="1920" height="930" alt="Screenshot 2025-07-26 150258" src="https://github.com/user-attachments/assets/24b78e7e-92fd-4586-a28e-b4fa90789ce6" />
 
